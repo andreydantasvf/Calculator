@@ -1,6 +1,6 @@
-<h1 align="center">GitFav</h1>
+<h1 align="center">Calculator</h1>
 
-## 🔖Calculator
+## 🔖Layout
 <p >
 	  <img alt="Layout" src="https://raw.githubusercontent.com/andreydantasvf/Calculator/main/public/layout.png" widht="400px" height="400px">
 	</p>
